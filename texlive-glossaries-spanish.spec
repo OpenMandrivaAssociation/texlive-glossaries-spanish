@@ -3,7 +3,7 @@ Version:	35665
 Release:	2
 Summary:	Spanish language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-spanish
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-spanish
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-spanish.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-spanish.doc.r%{version}.tar.xz
